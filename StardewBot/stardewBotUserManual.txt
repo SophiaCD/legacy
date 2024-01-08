@@ -1,0 +1,10 @@
+User manual
+sv = user manual
+
+svc [Name of counter] [Number] = add countdown
+
+svc [Name of premade counter] = Searchers is star dew valley data place for matching counters and adds them if possible
+
+svc [Name of counter] [Number]b[bounce number] = Count down from the first number then once it hits zero starts again from the bounce number, repeats
+
+svs [Name of counter] = end all counters matching that name
