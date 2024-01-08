@@ -1,0 +1,12 @@
+User manual
+Hi/Hello = Hello
+Bye = Bye
+
+roll (Number of dice)d(Maximum die Face) 
+Example "roll 2d6"
+
+ttt(Number 1-9)
+Creates a tic-tac-toe game automatically repeat command to add more pieces
+
+ng
+Resets tic-tac-toe
